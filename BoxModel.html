@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Model</title>
+    <style>
+        /* *{
+            background-image: url(Images/Bg2.jpg);
+            z-index: -1;
+        
+        } */
+        body{
+            background-image: url(Images/Bg3.jpg);
+        }
+.container{
+    background-color: #6b5539;
+    /* background-image: url(Images/snowboard.jpg); */
+    background-position: center;
+    border: 4px solid rgb(86 17 22);
+    text-align: center;
+    padding: 75px 104px 80px 97px;
+    margin: 16px 105px 34px 123px;
+}
+#tt{
+    /* background-image:url(Images/snowboard.jpg); */
+    /* z-index:; */
+    background-image: url(Images/Background1.jpg);
+    
+}
+span#btn{
+    padding-top: 0%;
+    border: 2px solid black;
+    margin: 91px 47px 47px 54px;
+    cursor: pointer;
+    
+}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h3>This is my heading</h3>
+        <p id="first">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem in quod quos, iste perspiciatis laudantium reiciendis? Illum nihil placeat saepe.</p>
+    </div>
+    <div class="container" id="tt">
+        <h3>This is my heading</h3>
+        <p id="second">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem in quod quos, iste perspiciatis laudantium reiciendis? Illum nihil placeat saepe.</p>
+    </div>
+    <div class="container">
+        <h3>This is my heading</h3>
+        <p id="third">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem in quod quos, iste perspiciatis laudantium reiciendis? Illum nihil placeat saepe. <span id="btn"> Button</span></p>
+    </div>
+</body>
+</html>
