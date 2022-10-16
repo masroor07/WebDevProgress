@@ -1,0 +1,2468 @@
+	<!DOCTYPE html>
+		<!--[if IE 8]>
+	<html class="ie ie8" lang="en-US"> <![endif]-->
+	<!--[if IE 9]>
+	<html class="ie ie9" lang="en-US"> <![endif]-->
+	<!--[if gt IE 9]><!-->
+<html lang="en-US"> <!--<![endif]-->
+	<head>
+		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GTX2L');</script>
+<!-- End Google Tag Manager -->		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="pingback" href="http://u4uvoice.com/xmlrpc.php"/>
+
+		<title>jktourism logo &#8211; U4UVoice</title>
+
+<!-- Better Open Graph, Schema.org & Twitter Integration -->
+<meta property="og:locale" content="en_us"/>
+<meta property="og:site_name" content="U4UVoice"/>
+<meta property="og:url" content="http://u4uvoice.com/jktourism-logo/"/>
+<meta property="og:title" content="jktourism logo"/>
+<meta property="og:image" content="http://u4uvoice.com/wp-content/themes/publisher/images/default-thumb/large.png"/>
+<meta property="og:description" content="U4U Voice is among the fastest news websites in J&amp;K. Stay Tuned for Latest Updates!"/>
+<meta property="og:type" content="article"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:url" content="http://u4uvoice.com/jktourism-logo/"/>
+<meta name="twitter:title" content="jktourism logo"/>
+<meta name="twitter:description" content="U4U Voice is among the fastest news websites in J&amp;K. Stay Tuned for Latest Updates!"/>
+<meta name="twitter:image" content="http://u4uvoice.com/wp-content/themes/publisher/images/default-thumb/large.png"/>
+<!-- / Better Open Graph, Schema.org & Twitter Integration. -->
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="U4UVoice &raquo; Feed" href="http://u4uvoice.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="U4UVoice &raquo; Comments Feed" href="http://u4uvoice.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="U4UVoice &raquo; jktourism logo Comments Feed" href="http://u4uvoice.com/feed/?attachment_id=7724" />
+<!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var em_version         = '6.2.2';
+	var em_track_user      = true;
+	var em_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-42917268-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( em_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+window.ga = __gaTracker;		__gaTracker('create', 'UA-42917268-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+		__gaTracker( function() { window.ga = __gaTracker; } );
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + em_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+			window.ga = __gaTracker;		})();
+		}
+</script>
+<!-- / Google Analytics by ExactMetrics -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/u4uvoice.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://u4uvoice.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://u4uvoice.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pj-news-ticker-css'  href='http://u4uvoice.com/wp-content/plugins/pj-news-ticker/public/css/pj-news-ticker.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='//u4uvoice.com/wp-content/uploads/pum/pum-site-styles.css?generated=1600665577&#038;ver=1.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://u4uvoice.com/wp-content/plugins/pe-recent-posts/css/animate.css?ver=5.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=5.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='pe-recent-posts-css'  href='http://u4uvoice.com/wp-content/plugins/pe-recent-posts/css/pe-recent-posts.css?ver=5.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='http://u4uvoice.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=5.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='better-framework-main-fonts-css'  href='https://fonts.googleapis.com/css?family=Raleway:400%7COswald:400%7CRoboto:500,400,700%7CLuckiest+Guy:400' type='text/css' media='all' />
+<script type='text/javascript' src='http://u4uvoice.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://u4uvoice.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://u4uvoice.com/wp-content/plugins/pe-recent-posts/js/bootstrap.min.js?ver=3.3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"http:\/\/u4uvoice.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://u4uvoice.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js?ver=6.2.2'></script>
+<script type='text/javascript' src='http://u4uvoice.com/wp-content/plugins/pj-news-ticker/public/js/pj-news-ticker.js?ver=1.7'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://u4uvoice.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/html5shiv.min.js?ver=3.7.2'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://u4uvoice.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/respond.min.js?ver=3.7.2'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://u4uvoice.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://u4uvoice.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://u4uvoice.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.8" />
+<link rel='shortlink' href='http://u4uvoice.com/?p=7724' />
+<link rel="alternate" type="application/json+oembed" href="http://u4uvoice.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fu4uvoice.com%2Fjktourism-logo%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://u4uvoice.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fu4uvoice.com%2Fjktourism-logo%2F&#038;format=xml" />
+<script>
+  window.OneSignal = window.OneSignal || [];
+  window.OneSignal.push(function() {
+    window.OneSignal.isPushNotificationsEnabled( function(isPushEnabled) {
+      if (isPushEnabled) {
+        /* Don't show the subscription container if this visitor is already subscribed to web push */
+        return;
+      } else {
+        // Prompt for permission when the button is clicked
+        var subscribeButton = document.querySelector("#subscribe-notifications");
+        if (subscribeButton) {
+          subscribeButton.addEventListener("click", onSubscribeNotificationsButtonClicked);
+        }
+
+        // Get the subscription container
+        var subscriptionContainer = document.querySelector("#subscribe-notifications-container");
+        
+        // Show the container
+        if (subscriptionContainer) {
+          subscriptionContainer.style = ""; 
+          
+          
+        }
+        var submid = document.querySelector(".bs-push-noti");
+        if (quzcont) {
+          submid.style.display = "block";
+        }
+        
+        
+        var quzcont = document.querySelector("#subCont");
+        if (quzcont) {
+          quzcont.style.display = "none";
+        }
+        var quzfail =  document.querySelector("#subFalse");
+        if (quzfail) {
+          quzfail.style.display = "block";
+        }
+        
+        var audbtts =  document.querySelector("#listenButton1");
+        if (audbtts) {
+          audbtts.style.display = "none";
+        }
+        
+     }
+    });
+  });
+
+  function onSubscribeNotificationsButtonClicked() {
+    /* See SDK API documentation: https://documentation.onesignal.com/docs/web-push-sdk */
+    window.OneSignal.registerForPushNotifications();
+  }
+</script>
+<script>
+    if ( window.history.replaceState ) {
+        window.history.replaceState( null, null, window.location.href );
+    }
+</script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "d22468a5-7fe1-425b-b086-8a48c33a3c3e",
+    });
+  });
+</script>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://u4uvoice.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->        <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("http://u4uvoice.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'd22468a5-7fe1-425b-b086-8a48c33a3c3e';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "U4U VOICE";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['welcomeNotification']['url'] = "http://u4uvoice.com/";
+oneSignal_options['subdomainName'] = "u4uvoice";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.1d9d9717-02c9-46fa-a0ca-aedc9bb61733";
+oneSignal_options['persistNotification'] = true;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'inverse';
+oneSignal_options['notifyButton']['size'] = 'small';
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Subscribe to get all the Latest News.';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Thanks you for Subscribing to U4U Voice.';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Thanks you for Subscribing to U4U Voice.';
+oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Subscribe to U4U VOICE';
+oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'SUBSCRIBE NOW';
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "organization",
+    "@id": "#organization",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "http:\/\/u4uvoice.com\/wp-content\/uploads\/2018\/10\/logoU4u.png"
+    },
+    "url": "http:\/\/u4uvoice.com\/",
+    "name": "U4UVoice",
+    "description": "U4U Voice is among the fastest news websites in J&amp;K. Stay Tuned for Latest Updates!"
+}</script>
+<script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WebSite",
+    "name": "U4UVoice",
+    "alternateName": "U4U Voice is among the fastest news websites in J&amp;K. Stay Tuned for Latest Updates!",
+    "url": "http:\/\/u4uvoice.com\/"
+}</script>
+<script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "ImageObject",
+    "headline": "jktourism logo",
+    "datePublished": "2013-09-14",
+    "dateModified": "2013-09-14",
+    "author": {
+        "@type": "Person",
+        "@id": "#person-RainuRaina",
+        "name": "Rainu Raina"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "http:\/\/u4uvoice.com\/wp-content\/uploads\/2013\/09\/jktourism-logo.jpg",
+        "width": 467,
+        "height": 449
+    },
+    "interactionStatistic": [
+        {
+            "@type": "InteractionCounter",
+            "interactionType": "http:\/\/schema.org\/CommentAction",
+            "userInteractionCount": "0"
+        }
+    ],
+    "publisher": {
+        "@id": "#organization"
+    },
+    "mainEntityOfPage": "http:\/\/u4uvoice.com\/jktourism-logo\/"
+}</script>
+<link rel='stylesheet' id='bf-minifed-css-1' href='http://u4uvoice.com/wp-content/bs-booster-cache/f2c93081dba4dfca00311d5beabe1080.css' type='text/css' media='all' />
+<link rel='stylesheet' id='5.2.0-1621074595' href='http://u4uvoice.com/wp-content/bs-booster-cache/027b7a77779e47ba596432790d91c6a5.css' type='text/css' media='all' />
+
+<!-- BetterFramework Head Inline CSS -->
+<style>
+/*--Corona---*/
+.corona_Feed {
+    text-align: center;
+}.corona_Feed a {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 20px;
+    display: inline-block;
+    position: relative;
+    background: #ff0000;
+   
+    padding: 5px 10px;
+}.corona_Feed span {
+    font-size: 0px;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    border-radius: 50%;
+    position: relative;
+    top: -11px;
+    margin-left: 7px;
+}.cvd_Data h2 {
+    margin-bottom: 30px;
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 25px;
+    
+}p.amCredits {
+    margin-bottom: 0;
+    color: #ccc!important;
+}.amCredits a {
+    color: #ccc!important;
+    font-weight: bold;
+}
+
+/*---Bottom SCroll---*/
+#onesignal-bell-launcher {
+    bottom: 100px!important;
+}#footerStickyrecents {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #fff;
+    padding: 5px;
+    margin: 0px auto;
+    left: 0;
+    z-index: 99999999999;
+    box-shadow: 0px 0px 10px -4px #222;
+}
+#footerStickyrecents .listing-item {
+    margin-bottom: 0;
+}#footerStickyrecents .section-heading.sh-t3.sh-s8.main-term-none {
+    display: none;
+}
+
+.ajax-post-content:before {
+    content: "NEXT NEWS";
+    font-size: 16px;
+    font-family: Oswald;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 2px 15px;
+    background: #009f12;
+    color: #fff;
+    margin-bottom: 0px;
+    padding-bottom: 0;
+}
+.ajax-post-content .single-container {
+    border-top: 5px solid #009f12;
+    margin-top: -1px;
+}
+.single-container form, .single-container #listenButton1 {
+    display: none;
+} {
+    display: none;
+}
+.post-related .other-link span {
+  display: none!important;
+}.post-related span.h-text.related-posts-heading {
+    text-transform: uppercase;
+}.obtTxt .vc_gitem-zone.vc_gitem-zone-a.vc-gitem-zone-height-mode-auto.vc-gitem-zone-height-mode-auto-1-1 {
+
+    background-position: top center!important;
+}
+
+/*---Wishes---*/
+.wish_title h2 {
+  color: #111;
+  text-transform: uppercase;
+  font-family: luckiest guy;
+  letter-spacing: 1px;
+  color: #02caca!important;
+}.frmNmm {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  
+}.frmNmm {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}.frmNmm span:before {
+ 
+  content: "";
+  font-family: fontawesome;
+  padding-right: 5px;
+}.wish_date {
+  text-align: center;
+}.wish_date > div {
+  display: inline-block !important;
+  float: none !important;
+  margin: 0 auto;
+}.frmNmm {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}.wish_date > div:before {
+  content: "\f017";
+  font-family: fontawesome;
+  padding-right: 5px;
+ 
+}.wish_title:before {
+  background: url("/wp-content/uploads/2018/10/cakes-2.png") repeat scroll center center / cover  rgba(0, 0, 0, 0);
+  color: #ff0000;
+  content: "";
+  display: block;
+  font-family: fontawesome;
+  font-size: 38px;
+  height: 60px;
+  left: 6px;
+  margin: 0 auto;
+  text-align: center;
+  width: 60px !important;
+}.vc_gitem-zone {
+  margin-top: -15px;
+}.vc_grid-item-mini.vc_clearfix {
+  background: url("/wp-content/uploads/2018/10/sprinkles-1.png") no-repeat scroll 0 0 / cover  rgba(0, 0, 0, 0);
+  border: 3px solid #f1f1f1;
+  padding-top: 20px;
+  background-position: bottom center;
+}
+.vc_gitem-zone.vc_gitem-zone-c {
+  background: transparent!important;
+}
+/*---No ad Repeat---*/
+.ajax-post-content .bsac-container {
+  display: none;
+}
+/*---News Title---*/
+.single-post-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/*---App Popup---*/
+.dwnldApp a {
+  background: #009f12 none repeat scroll 0 0;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 20px;
+}#pum_popup_title_314174 {
+  font-size: 0!important;
+  margin-bottom: 0;
+  text-align: center;
+  text-transform: uppercase;
+}.dwnldApp {
+  text-align: center;
+}
+
+/*---Ad Font Styling--*/
+.entry-content p {
+  color: #000 !important;
+  font-family: helvetica;
+  font-size: 16px !important;
+ 
+}.xpstObt img {
+  width: 100%!important;
+}
+
+.listing-item-tb-3 .title, .listing-item-tb-1 .title {
+  text-shadow: 0 0 0 !important;
+  font-family:oswald!important;
+  
+}
+
+/*---Advertisement Css---*/
+.tdPll #custom_html-2 {
+  margin-bottom: 0;
+}.xpstObt > img {
+  width: 100%!important;
+}.xpstObt {
+  margin-bottom: 30px;
+}.adBfrsubs {
+  margin-bottom: 20px;
+}.ajax-post-content .single-container, .single .single-container {
+  margin-bottom: 0;
+}.bdayWishes > img {
+  width: 100%!important;
+}
+
+/*---Important Days---*/
+.imprtDays {
+  margin-bottom: 20px;
+}.imprtDays > img {
+  width: 100% !important;
+}
+
+
+.ewd-urp-review-image img {
+  border: 5px solid #d1d1d1;
+}
+
+/*---Diwali Animation---*/
+.message{
+  color:white;
+  text-align:center;
+}
+.style{
+  position:fixed;
+  bottom:0;
+  left:0;
+  color:blue;
+  padding-left:10px;
+}
+.mainContainer{
+  position:relative;
+  margin:80px auto;
+  width:60px;
+  height:100px;
+}
+.containermn{
+  margin:80px auto;
+  width: 60px;
+  height: 60px;
+  position:relative;
+  transform-origin:center bottom;
+  animation-name: flicker;
+  animation-duration:3ms;
+  animation-delay:200ms;
+  animation-timing-function: ease-in;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  z-index:2;
+}
+
+.flame{
+  bottom:0;
+  position:absolute;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  border-top-left-radius: 50%;
+  transform:rotate(-45deg) scale(1.5,1.5);
+}
+
+.yellow{
+  left:15px; 
+  width: 30px;
+  height: 30px;
+  background:gold;
+  box-shadow: 0px 0px 9px 4px gold;
+}
+
+.orange{
+  left:10px; 
+  width: 40px;
+  height: 40px;
+  background:orange;
+  box-shadow: 0px 0px 9px 4px orange;
+}
+
+.red{
+  left:5px;
+  width: 50px;
+  height: 50px;
+  background:OrangeRed;
+  box-shadow: 0px 0px 5px 4px OrangeRed;
+}
+
+.white{
+  left:15px; 
+  bottom:-4px;
+  width: 30px;
+  height: 30px;
+  background:white;
+  box-shadow: 0px 0px 9px 4px white;
+}
+
+.circle{
+  border-radius: 50%;
+  position:absolute;  
+}
+
+.blue{
+  width: 10px;
+  height: 10px;
+  left:25px;
+  bottom:-25px; 
+  background: SlateBlue;
+  box-shadow: 0px 0px 15px 10px SlateBlue;
+}
+
+.black{
+  width: 40px;
+  height: 40px;
+  left:10px;
+  bottom:-60px;  
+  background: black;
+  box-shadow: 0px 0px 15px 10px black;
+}
+
+@keyframes flicker{
+  0%   {transform: rotate(-1deg);}
+  20%  {transform: rotate(1deg);}
+  40%  {transform: rotate(-1deg);}
+  60%  {transform: rotate(1deg) scaleY(1.04);}
+  80%  {transform: rotate(-2deg) scaleY(0.92);}
+  100% {transform: rotate(1deg);}
+}
+.circleCandle{
+  background-color:#922802;
+  width:200px;
+  height:20px;
+  border-radius:50%;
+  position:absolute;
+  left:-70px;
+  top:71px;
+  z-index:-1;
+}
+.circleCandleOutside{
+  background-color:#120904;
+  width:208px;
+  height:20px;
+  border-radius:50%;
+  position:absolute;
+  left:-74px;
+  top:62px;
+  z-index:-2;
+}
+.triangle{
+  width:0;
+  height:0;
+  border-bottom:10px solid #120904;
+  border-left:20px solid transparent;
+  border-right:20px solid transparent;
+  position:absolute;
+  top:83px;
+  left:7px;
+  z-index:1;
+}
+.diyaContainer{
+  background:#120904;
+  width:208px;
+  height:50px;
+  position:absolute;
+  top:73px;
+  left:-74px;
+  z-index:-2;
+  border-bottom-left-radius:40px;
+  border-bottom-right-radius:40px;
+}
+.batti{
+  width:12px;
+  height:30px;
+  position:absolute;
+  background:white;
+  top:60px;
+  left:22px;
+}
+.stand{
+  width:50px;
+  height:10px;
+  background:#120904;
+  position:absolute;
+  top:100px;
+  
+}
+
+
+.adBfrsubs img {
+  width: 100%;
+}
+/*---Onesignal button header----*/
+.subscriptionNwr {
+  border:1px solid #e9e9e9;
+  padding:10px;
+  text-align: center;
+  padding-bottom:30px;
+  position:relative;
+}.onesignal-customlink-subscribe, .onesignal-customlink-subscribe.onesignal-reset {
+    display: block!important;
+    float: none!important;
+    margin: 0px auto!important;
+}
+.subscriptionNwr .fa-hand-pointer-o {
+    position: absolute;
+    z-index: 999999999!important;
+    color: #000;
+    bottom: 15px;
+    font-size: 23px;
+    margin-left: -10px;
+}
+
+/*--Obituary Section---*/
+.cntBlk > span {
+  font-size: 14px;
+  margin-bottom: 10px;
+  display: block;
+}.ewd-urp-review-margin.ewd-urp-review-post {
+  text-align: left;
+}.bs-push-noti {
+  display: none;
+}.onesignal-customlink-subscribe, .onesignal-customlink-subscribe.onesignal-reset {
+    display: block!important;
+   
+}
+/*---Headings---*/
+.rlgPicTpp .sh-t3.sh-s7 {
+  margin-bottom: 10px!important;
+}#clrdCyn .sh-s3:after, #clrBlu .sh-t2.sh-s3:after{
+  background: #0AB3AF!important;
+}#clrdCyn .h-text, #clrBlu .h-text {
+  color: #0AB3AF!important;
+}.tdPll .h-text,#clGrns .h-text{
+  color: #009F12!important;
+}#orngClr .h-text{color:#e64035;}
+#orngClr .sh-s3:after{background:#e64035;}
+/*---Post Inner Image---*/
+.post-header-inner {
+  height: 300px!important;
+}.ajax-post-content .post-header-inner {
+  height: auto !important;
+}
+.appBnnr img {
+  width: 100%!important;
+}
+
+/*---User Consent--*/
+.cntBlk > a {
+  animation: 3.5s ease 0s normal none infinite running colorchange;
+  color: #fff;
+  display: inline-block;
+  font-size: 16px;
+  padding: 5px 15px;
+  text-transform: uppercase;
+  position:relative;
+  padding-right:35px;
+}
+.cntBlk > a::after {
+  background: rgba(0, 0, 0, 0) url("http://u4uvoice.com/wp-content/uploads/2018/10/obtry.png") repeat scroll 0 0 / cover ;
+  content: "";
+  display: block;
+  height: 23px;
+  position: absolute;
+  right: 9px;
+  top: 6px;
+  width: 20px !important;
+  z-index: 999999999;
+}
+.ewd-urp-submit::before {
+  content: "Disclaimer: Content or information that is uploaded, stored, posted or otherwise made available using the Services has not been reviewed,  verified or authenticated by U4U Voice in person, and may include inaccuracies or false information. U4U Voice make no representations, warranties,  or guarantees relating to the quality, suitability, truth, accuracy or completeness of any such Content or information. By Clicking the post obituary button  You acknowledge sole responsibility for and assume all risk arising from your use or reliance upon any such Content or information. When posting an obituary or using the Services, you agree not to use the Services in an unlawful or inappropriate manner, including, but not limited to:      Submitting material that violates a third party\'s proprietary rights, including privacy and publicity rights, or that otherwise violates any applicable law;     Publishing falsehoods or misrepresentations that could damage us, our users, or any third party;     Publishing any private information of someone, like their address, phone number, email address, and similar information without their permission;     Submitting material that is unlawful, obscene, defamatory, libelous, threatening, pornographic, harassing, hateful, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate;     Posting advertisements or solicitations;     Impersonating another person or representing yourself as affiliated with us or our staff;     Soliciting a user\'s password or other account information; or     Harvesting user names, addresses, or email addresses for any purpose.";
+  display: block;
+  font-size: 12px;
+  margin-bottom: 10px;
+  text-align: justify;
+  color: #ccc;
+}
+.better-social-counter.style-modern .item-count, .better-social-counter .item-title {
+ 
+  display: none!important;
+}
+.mrWrrps {
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0px 0px 7px -1px #ccc;
+}
+/*---Whatsapp code--*/
+.whtsGltch h2 {
+  color: #009f12;
+  font-family: Luckiest Guy !important;
+  font-size: 38px !important;
+  font-weight: bold !important;
+  letter-spacing: 2px;
+  margin-bottom: 0;
+  margin-top: 0;
+  position: relative;
+  text-shadow: 2px 2px 2px #ccc;
+  top: 5px;
+}.whtsGltch {
+  margin-top: -8px;
+}
+
+
+
+/*---Logo Rotation Effect----*/
+#site-title img, .logo-container.rh-img-logo img, .off-canvas-header img{animation: rotation 5s infinite linear;}
+
+
+@keyframes rotation {
+		from {
+				transform: rotateY(0deg);
+		}
+		to {
+				transform: rotateY(359deg);
+		}
+}
+
+/*Keyframes*/
+
+@keyframes glitch1 {
+  0% {
+    transform: none;
+    opacity: 1;
+  }
+  7% {
+    transform: skew(-0.5deg, -0.9deg);
+    opacity: 0.75;
+  }
+  10% {
+    transform: none;
+    opacity: 1;
+  }
+  27% {
+    transform: none;
+    opacity: 1;
+  }
+  30% {
+    transform: skew(0.8deg, -0.1deg);
+    opacity: 0.75;
+  }
+  35% {
+    transform: none;
+    opacity: 1;
+  }
+  52% {
+    transform: none;
+    opacity: 1;
+  }
+  55% {
+    transform: skew(-1deg, 0.2deg);
+    opacity: 0.75;
+  }
+  50% {
+    transform: none;
+    opacity: 1;
+  }
+  72% {
+    transform: none;
+    opacity: 1;
+  }
+  75% {
+    transform: skew(0.4deg, 1deg);
+    opacity: 0.75;
+  }
+  80% {
+    transform: none;
+    opacity: 1;
+  }
+  100% {
+    transform: none;
+    opacity: 1;
+  }
+}
+
+@keyframes glitch2 {
+  0% {
+    transform: none;
+    opacity: 0.25;
+  }
+  7% {
+    transform: translate(-2px, -3px);
+    opacity: 0.5;
+  }
+  10% {
+    transform: none;
+    opacity: 0.25;
+  }
+  27% {
+    transform: none;
+    opacity: 0.25;
+  }
+  30% {
+    transform: translate(-5px, -2px);
+    opacity: 0.5;
+  }
+  35% {
+    transform: none;
+    opacity: 0.25;
+  }
+  52% {
+    transform: none;
+    opacity: 0.25;
+  }
+  55% {
+    transform: translate(-5px, -1px);
+    opacity: 0.5;
+  }
+  50% {
+    transform: none;
+    opacity: 0.25;
+  }
+  72% {
+    transform: none;
+    opacity: 0.25;
+  }
+  75% {
+    transform: translate(-2px, -6px);
+    opacity: 0.5;
+  }
+  80% {
+    transform: none;
+    opacity: 0.25;
+  }
+  100% {
+    transform: none;
+    opacity: 0.25;
+  }
+}
+
+@keyframes glitch3 {
+  0% {
+    transform: none;
+    opacity: 0.25;
+  }
+  7% {
+    transform: translate(2px, 3px);
+    opacity: 0.5;
+  }
+  10% {
+    transform: none;
+    opacity: 0.25;
+  }
+  27% {
+    transform: none;
+    opacity: 0.25;
+  }
+  30% {
+    transform: translate(5px, 2px);
+    opacity: 0.5;
+  }
+  35% {
+    transform: none;
+    opacity: 0.25;
+  }
+  52% {
+    transform: none;
+    opacity: 0.25;
+  }
+  55% {
+    transform: translate(5px, 1px);
+    opacity: 0.5;
+  }
+  50% {
+    transform: none;
+    opacity: 0.25;
+  }
+  72% {
+    transform: none;
+    opacity: 0.25;
+  }
+  75% {
+    transform: translate(2px, 6px);
+    opacity: 0.5;
+  }
+  80% {
+    transform: none;
+    opacity: 0.25;
+  }
+  100% {
+    transform: none;
+    opacity: 0.25;
+  }
+}
+@media only screen and (min-width:701px){.p5Canvas {
+  display: none;
+}.site-header .site-branding {
+  display: block !important;}}
+
+/*---Obituary Top Baner---*/
+
+.cntBlk > p {
+  font-family: oswald;
+  font-size: 13px;
+  padding: 10px;
+}
+
+/*---News Ticker----*/
+.home .bs-injection.bs-injection-after_header.bs-injection-1-col.bs-vc-content {
+  display: none;
+}
+.pjnt-label {
+  position: relative;
+  top: 1px;
+}.rh-container.clearfix.bs-pinning-block.smart.pinned {
+  display: none!important;
+}.pjnt-label, .pjnt-content .pjnt-item {
+ 
+  font-size: 15px!important;
+}
+@media only screen and (max-width:800px){
+  .home .rh-header.clearfix.light.deferred-block-exclude {
+  margin-top: 0px!important;
+}
+    .rh-header.clearfix.light.deferred-block-exclude {
+  margin-top: 21px;
+}.topbar.use-pretty-tabs {
+   display: none;
+}
+.bs-injection.bs-injection-after_header.bs-injection-2-col.bs-vc-content {
+  padding-top: 10px!important;
+  background: #fff!important;
+  z-index:1;
+}
+.bs-injection.bs-injection-after_header.bs-injection-2-col.bs-vc-content {
+  padding: 0 !important;
+  position: fixed;
+  top: 0;
+  width: 100% !important;
+  z-index: 999999;
+}.bs-injection .wpb_column.bs-vc-column.vc_column_container.vc_col-sm-12 {
+  padding: 0 !important;
+  width: 100% !important;
+}.pjnt-border {
+    box-shadow: 0 0px 7px 0px #000;
+   
+}}
+.bs-injection .wpb_raw_code {
+  margin-bottom: 0;
+}.bs-injection.bs-injection-before_header, .bs-injection.bs-injection-after_header {
+  padding-top: 10px;
+}.bs-injection.bs-injection-after_header.bs-injection-2-col.bs-vc-content {
+  width: 100%!important;
+}.pjnt-border {
+    
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-bottom: 2px solid;
+  border-image: none;
+  border-left: 2px solid;
+  border-right: medium none !important;
+  border-top: 2px solid;
+  width: 100%;
+  border-top: none!important;
+  border-bottom: 3px solid #009F12 !important;
+}
+/*---Poll Button---*/
+.rlgPicTpp .fa-picture-o {
+  padding-left: 5px;
+  font-size: 20px;
+}.rlgPicTpp .fa-bullhorn {
+  padding-left: 5px;
+  font-size: 20px;
+}
+.prsPlrslts {
+      
+  background: #009F12 none repeat scroll 0 0;
+  color: #fff !important;
+  display: block;
+  font-size: 14px;
+  margin: 0 auto;
+  padding: 8px 20px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 200px;
+  font-weight:bold;
+}.prsPll .fa {
+  padding-left: 5px;
+}
+/*---Related Animation----*/
+.bs-irp-heading .h-text.heading-typo {
+  animation: 2s steps(28, end) 1s normal none infinite running fave-heart;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: rgba(0, 0, 0, 0);
+  background-image: url("https://cssanimation.rocks/images/posts/steps/heart.png");
+  background-origin: padding-box;
+  background-position: center center;
+  background-repeat: no-repeat !important;
+  background-size: auto auto;
+  cursor: pointer;
+  display: block !important;
+  font-size: 0 !important;
+  height: 87px;
+  left: 121px;
+  position: absolute !important;
+  top: 32px;
+  transform: translate(-50%, -50%);
+  width: 100px;
+}
+.bs-irp-heading .h-text.heading-typo::after {
+  color: #000;
+  content: "Also Read:";
+  display: block !important;
+  font-size: 19px !important;
+  left: -70px !important;
+  min-width: 120px !important;
+  position: absolute;
+  top: 34px;
+}
+.bs-irp-heading .h-text.heading-typo {
+  background-position: -2800px 0;
+  transition: background 1s steps(28);
+}
+@-webkit-keyframes fave-heart {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -2800px 0;
+  }
+}
+@keyframes fave-heart {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -2800px 0;
+  }
+}
+
+/*----Buddy Loading----*/
+
+#infinity-single-post-loading .bs-pagin-loading-wrapper .bs-loading {
+  background: rgba(0, 0, 0, 0) url("/wp-content/uploads/2018/09/robogif.gif") no-repeat scroll center center;
+  height: 117px;
+  left: 0;
+  margin-left: 0;
+  margin-top: -27px;
+  position: absolute;
+  text-align: center !important;
+  top: 30%;
+  width: 100% !important;
+}
+
+#infinity-single-post-loading .bs-loading > div {
+  position: relative;
+  top: 150px;
+}
+
+/*---New Top animation code----*/
+.center-inner {
+  
+  display: block!important;
+}
+.whtsPPcdd > img {
+  width: 100%;
+}.bubbles h2 {
+  color: #009f12;
+  font-size: 0 !important;
+  line-height: 0 !important;
+  margin: 0 !important;
+}.center-inner > p {
+  margin-bottom: 0!important;
+}.bubbles {
+  display: none!important;
+}
+.center-inner > h3 {
+  margin: -30px 0 0;
+  position: relative;
+}
+/*---Animation----*/
+
+/*---Footer----*/
+
+.bs-irp .bs-irp-heading {
+  display: block !important;
+  height: 60px;
+  position: relative !important;
+ 
+}
+.site-footer .footer-social-icons {
+    background-color: #ffffff;
+    border-top: 1px solid rgba(0,0,0,0.15);
+    border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+.rlgPicTpp .h-text {
+  text-transform: uppercase!important;
+}.bs-irp-heading .h-text.heading-typo {
+  font-size: 20px;
+  font-weight: bold;
+}.item-inner .post-url {
+  font-size: 14px;
+}.single-featured img {
+  height: auto !important;
+  max-width: 100%;
+  width: 100% !important;
+}
+/*--Listen button animation---*/
+.psttrDv {
+  margin-bottom: 20px;
+}.site-header.header-style-2.header-style-2 .main-menu > li > a {
+  padding: 0 15px!important;
+}
+#listenButton1{animation: colorchange 3.5s infinite; /* animation-name followed by duration in seconds*/ /* you could also use milliseconds (ms) or something like 2.5s */ -webkit-animation: colorchange 3.5s infinite; /* Chrome and Safari */}
+@keyframes colorchange { 0% {background: #009F12;} 20% {background: #44A3E3;} 40% {background: #FE8900;} 60% {background: #44A3E3;} 80% {background: #FE8900;} 100% {background: #44A3E3;} } @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */ { 0% {background: #009F12;} 20% {background: #44A3E3;} 40% {background: #FE8900;} 60% {background: #44A3E3;} 80% {background: #FE8900;} 100% {background: #44A3E3;} }
+.cntBlk {
+  width: 290px;
+  margin: 0px auto;
+  margin-bottom: 15px;
+  margin-top: 10px;
+  text-align:center;
+  position:relative;
+  padding:20px;
+  border:1px solid #e9e9e9;
+}.cntBlk img {
+  width: 100%;
+  box-shadow: 0 0 10px -2px #ccc;
+ 
+}.cntBlk > p {
+  background: #f00 none repeat scroll 0 0;
+  box-shadow: 0 0 5px -1px #000;
+  color: #fff;
+  font-family: helvetica;
+  font-size: 10px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 0;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 35px;
+}.page-id-315108 .cntBlk {
+  display: none;
+}
+/*---Ajax News---*/
+
+.youtuFld .yotu-column-1 li {
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+  width: 18% !important;
+}.youtuFld .yotu-videos {
+  height: auto!important;
+  overflow: auto!important;
+  float:none!important;
+  
+}.youtuFld .yotu-pagination-bottom {
+  display: none !important;
+}
+.post-author-a, .home .post-meta .share, .home .post-meta .comments {
+  display: none;
+} {
+  display: none;
+}
+.ajax-post-content .responsivevoice-button {
+  display: none;
+}.spchRfrsh {
+  display: none;
+}.ajax-post-content .spchRfrsh {
+  display: block!important;
+}.nwsSpcpp {
+    text-align: center!important;
+    display: block!important;
+    color: #fff!important;
+    background: #009F12!important;
+    padding: 10px!important;
+}
+/*---cricket---*/
+.pane.sqr .widget_logo {
+  display: none!important;
+}
+/*---writing---*/
+#subCont .wpcf7-mail-sent-ok::before {
+  content: "Thankyou for Participating in the contest.";
+  display: block;
+  font-size: 18px;
+  position: relative;
+  text-align: center;
+  top: 12px;
+}#subCont .wpcf7-mail-sent-ok {
+  font-size: 0;
+  margin-top: 20px;
+}
+.rulesCntst > h3 {
+  font-size: 14px;
+  text-decoration: underline;
+}.rulesCntst ol {
+  padding-left: 18px;
+  font-size: 13px;
+}#subFalse {
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+}
+
+/*---Subscription---*/
+.fbcoreBox img {
+  width: 100%;
+}.responsivevoice-button {
+  background: #333;
+  padding: 5px 10px;
+  margin-right: 10px;
+}
+#infinity-single-post-loading::after {
+  color: rgb(0, 159, 18);
+  content: "Loading Next News";
+  display: block;
+  font-size: 16px;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  top: -50px;
+}
+#audioFrms{display:none;}
+#pum_popup_title_314174 {
+    font-size: 18px;
+    text-transform:uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+    color:#fff!important;
+}
+
+.sbsNttfcnns {
+    text-align: center;
+}
+/*----WEbsite banner---*/
+.prsPll {
+  margin-top: 20px;
+}.pllRsslt > h2 {
+  color: #009f12;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+}.totalpoll-choice {
+  width: 100%;
+}/* Non essential CSS - Just for example centering */
+.center-outer {
+display: table;
+width: 100%;
+height: 100%;
+}
+#lNX96op-1535609619458 {
+  display: none!important;
+}
+.center-inner {
+display: table-cell;
+vertical-align: middle;
+text-align: center;
+}
+
+/* Essential CSS - Makes the effect work */
+
+
+
+.bubbles {
+display: inline-block;
+font-family: arial;
+position: relative;
+}
+
+.bubbles h1 {
+position: relative;
+margin: 1em 0 0;
+font-family: 'Luckiest Guy', cursive;
+color: #009F12;
+z-index: 2;
+}
+
+.individual-bubble {
+position: absolute;
+border-radius: 100%;
+bottom: 10px;
+background-color: #009F12;
+z-index: 1;
+}
+.center-inner > h3 {
+  font-size: 20px;
+  margin: 0;
+ 
+}.bubbles h2 {
+  color: #009f12;
+  font-size: 26px;
+  margin: 0;
+}.center-inner > h3 {
+  font-size: 22px;
+  margin: 0;
+  font-weight:bold;
+  
+  color:#000!important;
+}.center-inner {
+  text-align: left;
+  
+}.whtsPPcdd {
+   width: 300px;
+   padding-left: 20px!important;
+}.whtsPPcdd .fa-whatsapp {
+  color: #000000;
+  font-size: 112px;
+  margin: 0 auto !important;
+  opacity: 0.15;
+  position: absolute;
+  right: 0!important;
+ 
+  top: -15px;
+  z-index: 0;
+}.center-inner > p {
+  font-size: 13px;
+}
+
+ .whtsPPcdd a {
+  color: #222 !important;
+  
+}
+
+
+.whtsPPcdd {
+  float: right;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 auto;
+  padding-left: 50px;
+  position: relative;
+  text-align: left;
+  text-transform: uppercase;
+  
+}.whtsPPcdd a {
+    display: block;
+}
+.footer-instagram-label > span {
+  font-size: 0px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px ;
+}.footer-instagram-label > span::before {
+  color: #000 !important;
+  content: url("http://u4uvoice.com/wp-content/uploads/2018/08/insta-canvas.png");
+  display: block;
+  font-size: 30px;
+  opacity: 1 !important;
+}
+
+@keyframes glow1 {
+  0% {
+    transform:scale(1.1);
+  }
+  
+  25% {
+    transform:scale(1);
+  }
+  50% {
+    transform:scale(1.1);
+  }
+  100% {
+    transform:scale(1.1);
+  }
+}
+
+
+
+
+.comments-template {
+  display: none;
+}.rh-cover .better-social-counter.style-button .item-icon {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+  border: 3px solid rgba(255, 255, 255, 0.25);
+  color: #fff;
+  font-size: 16px;
+  height: 25px;
+  line-height: 38px;
+  width: 25px;
+  border: none!important;
+}.footer-copy-row .copy-1.col-lg-6.col-md-6.col-sm-6.col-xs-12:first-child {
+  text-align: center;
+  width: 100%!important;
+}.footer-copy-row .copy-2.col-lg-6.col-md-6.col-sm-6.col-xs-12:last-child {
+  display: none;
+}.site-header.site-header.header-style-2 .main-menu.menu > li.current-post-ancestor > a {
+  color: #000!important;
+}.listing-modern-grid-2 .listing-item-1 .title {
+  font-size: 86%;
+  font-weight: bold!important;
+  text-shadow: 1px 1px 1px #000!important;
+}.listing-mg-2-item.listing-item-2 .title, .listing-mg-2-item.listing-item-3 .title, .listing-mg-2-item.listing-item-4 .title, .listing-mg-2-item.listing-item-5 .title {
+  font-weight: bold!important;
+  text-shadow: 1px 1px 1px #000;
+}
+.views.post-meta-views.rank-100::after{
+  content: "HOT NEWS";
+ letter-spacing:1px;
+  font-weight: bold;
+  padding-left: 10px;
+  animation:  glow1 3s infinite;
+  display:inline-block;
+}.views.post-meta-views.rank-200::after {
+  content: "TRENDING NEWS";
+  font-weight: bold;
+  letter-spacing:1px;
+   padding-left: 10px;
+   animation:  glow1 3s infinite;
+   display:inline-block;
+}.views.post-meta-views.rank-300::after {
+  content: "MUST SEE";
+  font-weight: bold;
+  letter-spacing:1px;
+   padding-left: 10px;
+   animation:  glow1 3s infinite;
+   display:inline-block;
+}.views.post-meta-views.rank-500::after {
+  content: "MOST VIEWED";
+  font-weight: bold;
+  letter-spacing:1px;
+   padding-left: 10px;
+   animation:  glow1 3s infinite;
+   display:inline-block;
+}
+.entry-content p {
+  color: #000!important;
+}.better-social-banner .banner-item .item-count {
+ 
+  font-size: 0;
+ 
+}.better-social-banner .banner-item .item-title {
+ 
+  font-size: 0;
+ 
+}.fbcoreBox > span {
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+}#main-navigation li a, .off-canvas-menu ul.menu li a {
+  text-transform: uppercase;
+} .tmpllNme {
+  font-size: 16px;
+  text-align: center;
+  margin:0;
+}.whtsPPcdd > span:last-child {
+  font-size: 11px;
+  display: block;
+  margin-top: -10px;
+}.whtsPPcdd a {
+  display: block;
+  margin-top: -5px;
+ color:rgb(52,175,35);
+}
+/*Weather*/
+.better-weather-inline.bw_size-large .bw_summary {
+  display: block;
+  font-size: 10px;
+}.weatherBlock > p {
+  border: 2px solid #f1f1f1;
+  display: inline-block;
+  padding: 10px;
+  width: 210px;
+}.weatherBlock b {
+  display: block;
+  font-size: 16px;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+}.weatherBlock {
+  float: left;
+  text-align: left;
+  margin-bottom: 0;
+}.weatherBlock > p {
+  margin-bottom: 0;
+}.rlgPicTpp {
+  text-align: left;
+  margin-top: 10px;
+}
+.mojo-sp-button {
+ 
+  height: 70px;
+ 
+  width: 40px;
+}
+
+#mojo-sp-right-button .dashicons-arrow-left-alt2::before, #mojo-sp-right-button .dashicons-arrow-right-alt2::before {
+  content: "SOCIAL" !important;
+  font-family: helvetica;
+  font-size: 13px;
+  font-weight: bold !important;
+  left: -9px !important;
+  position: absolute;
+  top: 24px;
+  transform: rotate(-90deg);
+}
+.dashicons-arrow-left-alt2::before {
+  content: "\f234" !important;
+  font-size: 20px;
+  position: absolute;
+  top: 8px;
+  left: 3px !important;
+}.dashicons-arrow-right-alt2::before {
+  content: "\f234" !important;
+  font-size: 20px;
+  position: absolute;
+  top: 8px;
+}#mojo-sp-left-wrap, #mojo-sp-right-wrap {
+  position: fixed !important;
+ 
+}#mojo-sp-left-wrap > button {
+  
+  top: 40%;
+}#mojo-sp-right-wrap > button {
+  
+  top: 40%;
+}.mojo-sp > .mojosp-widget-area {
+
+  padding: 15px 5px;
+  
+}.mojosp-widget-area aside {
+  background: #fff none repeat scroll 0 0 !important;
+  padding: 0;
+  border: none!important;
+}.mojo-sp .widget-title {
+  font-size: 14px ;
+  color: #000!important;
+  font-weight: bold!important;
+  text-align: center;
+}.yotu-playlist {
+ 
+  padding-top: 0!important;}
+  
+.logo-col .col-inside, .logo-col {
+  width: 138px!important;
+  display: block!important;
+}  
+.header-inner .sidebar-col.col-xs-8 {
+  width: 80%!important;
+}
+.logo-container.rh-img-logo img {
+  height: 70px !important;
+  margin-top: 5px;
+  max-height: 70px !important;
+  max-width: 70px !important;
+  width: 70px !important;
+}.site-branding {
+  display: none;
+}.rh-header .logo-container.rh-img-logo {
+  padding: 0 !important;
+  text-align: center;
+}.rh-header .bs-pinning-wrapper, .logo-container.rh-img-logo, .rh-header .bs-pinning-wrapper {
+  height: 80px !important;
+}.rh-header .menu-container .menu-handler {
+  border-left: medium none;
+  position: absolute;
+  right: 0;
+  top: 11px;
+  z-index: 9999999999999;
+}
+.fbcoreBox {
+  position: relative;
+}
+  .weatherBlock > p {
+ 
+  position: relative;
+}
+.logo-container.rh-img-logo {
+ 
+  z-index: -1;
+}
+
+/*---Mojoplug--*/
+#tabbedCnntt label > img {
+  margin: 0 !important;
+  width: 25px;
+}
+#tabbedCnntt label {
+  padding: 10px !important;
+}#tabbedCnntt label {
+  border: 1px solid transparent;
+  color: #bbb;
+  display: inline-block;
+  font-weight: 600;
+  margin: 0 0 -1px;
+  padding: 15px 25px;
+  text-align: center;
+}#tabbedCnntt input {
+  display: none;
+}#tabbedCnntt section {
+  border-top: 1px solid #ddd;
+  display: none;
+  padding: 20px 0 0;
+}#tab1:checked ~ #content1, #tab2:checked ~ #content2, #tab3:checked ~ #content3, #tab4:checked ~ #content4, #tab5:checked ~ #content5 {
+  display: block;
+}#tabbedCnntt input:checked + label {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #009f12 #ddd #fff;
+  border-image: none;
+  border-style: solid;
+  border-width: 2px 1px 1px;
+  color: #555;
+}#content1, #content2, #content3, #content4, #content5 {
+  overflow: scroll;
+  height: 500px!important;
+}.pjnt-item > a {
+  color: #ff0000;
+  font-weight: bold;
+}.pjnt-item::after {
+  color: #ff0000;
+}
+.mojo-sp {
+  z-index: 2147483647 !important;
+}
+  /*---Media----*/
+  
+  
+  
+  
+@media only screen and (min-width:700px){
+      .rlgPicTpp {
+  display: none!important;
+}.weatherBlock > p {
+   margin-left: 5px!important;
+}
+}
+
+@media only screen and (max-width:700px){
+    .wish_title h2 {
+  font-size: 22px;
+ 
+}
+   
+.rh-header.light .rh-container {
+  background: transparent none repeat scroll 0 0 !important;
+ 
+}
+    .ewd-urp-review-title {
+    font-size: 16px!important;
+    display: block!important;
+    width: 100%!important;
+}
+    .weatherBlock > p {
+  margin: 0 1px;
+}
+    #sidebar-primary-sidebar .hidonMbbl {
+  display: none;
+}
+    .fbcoreBox iframe {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+    .totalpoll-question {
+  font-size: 14px !important;
+}.tmpllNme {
+  font-size: 13px;
+}
+    .whtsPPcdd {
+  float: none;
+  margin-top: 10px;
+}
+    .whtsPPcdd {
+  padding-left: 0 !important;
+  width: 232px!important;
+}.whtsPPcdd .fa-whatsapp {
+  font-size: 70px;
+  top: 0;
+}
+    .better-weather-inline.bw_size-large .bw_icon-container {
+  float: none!important;
+  margin-right: 0 !important;
+}.better-weather-inline.bw_size-large .bw_temperature {
+  font-size: 10px;
+  line-height: 0 !important;
+  margin-right: 0 !important;
+  margin-top: 6px;
+}
+    .weatherBlock > p {
+  padding: 5px 5px 30px;
+  position: relative;
+  width: 32%!important;
+  margin-bottom: 10px;}
+  
+  .weatherBlock b {
+  font-size: 11px;
+}.bw_icon {
+  height: 25px !important;
+  width: 25px !important;
+}.better-weather-inline.bw_size-large .bw_temperature {
+  font-size: 10px;
+  line-height: 0 !important;
+  margin-right: 0 !important;
+}.better-weather-inline.bw_size-large .bw_summary {
+  bottom: 8px;
+  display: block;
+  font-size: 10px;
+  line-height: 10px;
+  position: absolute;
+  width: 91%;
+
+}.weatherBlock {
+  display: block;
+  float: none;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+}
+@media only screen and (max-width:800px){
+    .weatherBlock > p {
+  padding: 5px 5px 30px;
+  position: relative;
+  width: 193px;
+}
+}
+@media only screen and (min-width:701px) and (max-width:1200px){
+.weatherBlock {
+  display: block;
+  float: none;
+  margin: 0 auto;
+  text-align: center;
+  width: 640px;
+}.whtsPPcdd {
+  float: none;
+  margin-top: 10px;
+}.weatherBlock > p {
+  padding: 10px!important;
+ 
+}.better-weather-inline.bw_size-large .bw_summary {
+  display: block !important;
+  font-size: 9px;
+  line-height: 10px;
+  position: absolute;
+  right: 9px;
+}.whtsPPcdd {
+  
+  width: 260px!important;
+}}
+
+@media only screen and (max-width:1200px){.site-header > .header-inner .logo-col, .site-header > .header-inner .sidebar-col {
+  display: block !important;
+  text-align: center!important;
+  width: 100% !important;
+}.logo-col .col-inside, .logo-col {
+  display: block !important;
+  width: 100%!important;
+  text-align: center;
+}.whtsPPcdd {
+  padding-left: 0 !important;
+}.site-header .header-inner .sidebar-col{
+  display: block;
+  height: auto;
+  width: 100%!important;
+}.single-post-title {
+  font-family: Oswald;
+  font-size: 20px !important;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}.single-post-content > p {
+  font-size: 15px;
+  line-height: 25px;
+}.imprtDays{display:block!important;}}
+@media only screen and (min-width:1200px){
+    .subscriptionNwr{display:none!important;}
+    .cntBlk {
+  display: none;
+}
+.logo-col.col-xs-4 {
+  width: 115px!important;
+  display:block!important;
+}.whtsPPcdd {
+  margin-top: 10px;
+}.header-inner .sidebar-col.col-xs-8 {
+  width: 77% !important;
+}#site-title img {
+  width: 115px!important;
+}.logo-col .col-inside, .logo-col {
+   width: 115px!important;
+}.better-social-counter.style-big-button.in-5-col .social-item {
+  width: 16%;
+}}
+@media only screen and (min-width:701px) and (max-width:900px){
+.layout-2-col .sidebar-column, .bf-2-primary-column-size {
+  width: 100%!important;
+}.layout-2-col .content-column, .bf-2-main-column-size {
+  width: 100%!important;
+}}
+
+
+</style>
+<!-- /BetterFramework Head Inline CSS-->
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
+
+<body class="attachment attachment-template-default single single-attachment postid-7724 attachmentid-7724 attachment-jpeg active-top-line ltr close-rh page-layout-2-col-right full-width active-sticky-sidebar active-ajax-search  bs-show-ha bs-show-ha-a wpb-js-composer js-comp-ver-5.4.7 vc_responsive bs-ll-a" dir="ltr">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GTX2L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->		<div class="main-wrap content-main-wrap">
+			<header id="header" class="site-header header-style-2 boxed" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+
+		<section class="topbar topbar-style-1 hidden-xs hidden-xs">
+	<div class="content-wrap">
+		<div class="container">
+			<div class="topbar-inner clearfix">
+
+									<div class="section-links">
+								<div  class="  better-studio-shortcode bsc-clearfix better-social-counter style-button not-colored in-4-col">
+						<ul class="social-list bsc-clearfix"><li class="social-item facebook"><a href = "https://www.facebook.com/U4UVoice" target = "_blank" > <i class="item-icon bsfi-facebook" ></i><span class="item-title" > Likes </span> </a> </li> <li class="social-item twitter"><a href = "https://twitter.com/U4U_Voice" target = "_blank" > <i class="item-icon bsfi-twitter" ></i><span class="item-title" > Followers </span> </a> </li> <li class="social-item google"><a href = "https://plus.google.com/107372710278689177246" target = "_blank" > <i class="item-icon bsfi-google" ></i><span class="item-title" > Followers </span> </a> </li> <li class="social-item youtube"><a href = "" target = "_blank" > <i class="item-icon bsfi-youtube" ></i><span class="item-title" > Subscribers </span> </a> </li> <li class="social-item instagram"><a href = "https://instagram.com/U4UVoice" target = "_blank" > <i class="item-icon bsfi-instagram" ></i><span class="item-title" > Followers </span> </a> </li> <li class="social-item pinterest"><a href = "http://www.pinterest.com/U4UVoice" target = "_blank" > <i class="item-icon bsfi-pinterest" ></i><span class="item-title" > Followers </span> </a> </li> <li class="social-item linkedin"><a href = "https://in.linkedin.com/company/u4u-voice" target = "_blank" > <i class="item-icon bsfi-linkedin" ></i><span class="item-title" >  </span> </a> </li> 			</ul>
+		</div>
+							</div>
+				
+				<div class="section-menu">
+						<div id="menu-top" class="menu top-menu-wrapper" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+		<nav class="top-menu-container">
+
+			<ul id="top-navigation" class="top-menu menu clearfix bsm-pure">
+									<li id="topbar-date" class="menu-item menu-item-date">
+					<span
+						class="topbar-date">Tuesday, May 25, 2021</span>
+					</li>
+								</ul>
+
+		</nav>
+	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+		<div class="header-inner">
+			<div class="content-wrap">
+				<div class="container">
+					<div class="row">
+						<div class="row-height">
+							<div class="logo-col col-xs-4">
+								<div class="col-inside">
+									<div id="site-branding" class="site-branding">
+	<p  id="site-title" class="logo h1 img-logo">
+	<a href="http://u4uvoice.com/" itemprop="url" rel="home">
+					<img id="site-logo" src="http://u4uvoice.com/wp-content/uploads/2018/10/logoU4u.png"
+			     alt="U4UVoice"  />
+
+			<span class="site-title">U4UVoice - U4U Voice is among the fastest news websites in J&amp;K. Stay Tuned for Latest Updates!</span>
+				</a>
+</p>
+</div><!-- .site-branding -->
+								</div>
+							</div>
+															<div class="sidebar-col col-xs-8">
+									<div class="col-inside">
+										<aside id="sidebar" class="sidebar" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+											<div class="bsac bsac-clearfix adloc-is-banner adloc-show-desktop adloc-show-tablet-portrait adloc-show-tablet-landscape adloc-show-phone location-header_aside_logo bsac-align-right bsac-column-1"><div id="bsac-309577-1503724961" class="bsac-container bsac-type-custom_code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="309577" data-type="custom_code"><div class="imprtDays" style="display:none;">
+
+</div>
+
+<div class="weatherBlock">
+<p><b>Jammu</b>
+		<span  id="bw-60ad0fbd1a622" class=" animated-icons better-weather-inline unit-showed bw_size-large" data-inline-size="large" style=" color:#333;" data-font-color="#333">
+		    <span
+			    class="bw_icon-container"><canvas id="bw-60ad0fbd1a622-summary-icon" class="bw_icon bw_svg-icon" style="height:55px; width:55px;" data-icon="clear-night"></canvas></span>
+		    <span
+			    class="bw_temperature">35° C</span>
+		    <span class="bw_summary">Clear</span>
+		</span>
+		</p>
+<p><b>Srinagar</b>
+		<span  id="bw-60ad0fbd1a859" class=" animated-icons better-weather-inline unit-showed bw_size-large" data-inline-size="large" style=" color:#333;" data-font-color="#333">
+		    <span
+			    class="bw_icon-container"><canvas id="bw-60ad0fbd1a859-summary-icon" class="bw_icon bw_svg-icon" style="height:55px; width:55px;" data-icon="clear-night"></canvas></span>
+		    <span
+			    class="bw_temperature">14° C</span>
+		    <span class="bw_summary">Clear</span>
+		</span>
+		</p>
+<p><b>Ladakh</b>
+		<span  id="bw-60ad0fbd1aa62" class=" animated-icons better-weather-inline unit-showed bw_size-large" data-inline-size="large" style=" color:#333;" data-font-color="#333">
+		    <span
+			    class="bw_icon-container"><canvas id="bw-60ad0fbd1aa62-summary-icon" class="bw_icon bw_svg-icon" style="height:55px; width:55px;" data-icon="clear-night"></canvas></span>
+		    <span
+			    class="bw_temperature">6° C</span>
+		    <span class="bw_summary">Clear</span>
+		</span>
+		</p>
+
+</div>
+
+
+<div class="whtsPPcdd">
+<div class="whtsGltch">
+<h2>WHATSAPP</h2>
+</div>
+<div class="center-outer">
+<div class="center-inner">
+<i aria-hidden="true" class="fa fa-whatsapp"></i>
+<div class="bubbles">
+
+</div>
+<h3><a href="tel:9906088332">9906088332</a></h3>
+<p>Message us #U4UVOICE to Join.</p>
+</div>
+</div>
+</div>
+
+
+<div class="corona_Feed">
+<a href="/covid-19-spread-report/">COVID-19 Live Report<span>.</span></a>
+</div>
+
+
+
+
+<div style="display:none;" class="rlgPicTpp tdPll"><div class="widget_text  h-ni w-t primary-sidebar-widget widget widget_custom_html" id="custom_html-2"><div class="section-heading sh-t2 sh-s3"><span class="h-text">Today’s Poll <i class="fa fa-bullhorn" aria-hidden="true"></i></span></div><div class="textwidget custom-html-widget">
+[totalpoll id="402876"]</div>
+<div class="prsPll">
+	<a class="prsPlrslts" href="/opinion-polls">Previous Polls <i class="fa fa-bullhorn" aria-hidden="true"></i></a>
+</div>
+</div>
+
+<div id="subFalse" style="display:none;" class="subscriptionNwr">
+<p>Get All the important News Alerts on the go exclusively from U4U Voice.</p>
+<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+<div class='onesignal-customlink-container'></div></div>
+
+
+</div></div>										</aside>
+									</div>
+								</div>
+														</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="menu-main" class="menu main-menu-wrapper show-search-item menu-actions-btn-width-1" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+	<div class="main-menu-inner">
+		<div class="content-wrap">
+			<div class="container">
+
+				<nav class="main-menu-container">
+					<ul id="main-navigation" class="main-menu menu bsm-pure clearfix">
+						<li id="menu-item-292568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-3 better-anim-fade menu-item-292568"><a href="http://u4uvoice.com/category/news/jandk/">Jammu &#038; Kashmir</a>
+<ul class="sub-menu">
+	<li id="menu-item-292571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-26 better-anim-fade menu-item-292571"><a href="http://u4uvoice.com/category/top-news/">JK Top News</a></li>
+	<li id="menu-item-292569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-4 better-anim-fade menu-item-292569"><a href="http://u4uvoice.com/category/news/jandk/jammu/">Jammu</a></li>
+	<li id="menu-item-292570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-5 better-anim-fade menu-item-292570"><a href="http://u4uvoice.com/category/news/jandk/kashmir/">Kashmir</a></li>
+	<li id="menu-item-292573" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-526 better-anim-fade menu-item-292573"><a href="http://u4uvoice.com/category/press-releases/">Press Releases</a></li>
+	<li id="menu-item-292574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-233 better-anim-fade menu-item-292574"><a href="http://u4uvoice.com/category/news/jandk/news-in-pictures/">News in Pictures</a></li>
+</ul>
+</li>
+<li id="menu-item-292576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-28 better-anim-fade menu-item-292576"><a href="http://u4uvoice.com/category/expressions/exclusive/">U4U Voice Exclusive</a></li>
+<li id="menu-item-292575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-188 better-anim-fade menu-item-292575"><a href="http://u4uvoice.com/category/expressions/">Expressions</a>
+<ul class="sub-menu">
+	<li id="menu-item-292577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-327 better-anim-fade menu-item-292577"><a href="http://u4uvoice.com/category/expressions/opinions/">Opinions</a></li>
+	<li id="menu-item-292578" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-261 better-anim-fade menu-item-292578"><a href="http://u4uvoice.com/category/expressions/jk-turks/">People and Interviews</a></li>
+</ul>
+</li>
+<li id="menu-item-292579" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-9 better-anim-fade menu-item-292579"><a href="http://u4uvoice.com/category/citizen_journalist/">iReport</a>
+<ul class="sub-menu">
+	<li id="menu-item-292580" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-11 better-anim-fade menu-item-292580"><a href="http://u4uvoice.com/category/citizen_journalist/citizen_reports/">Citizen Reports</a></li>
+</ul>
+</li>
+<li id="menu-item-371053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-8 better-anim-fade menu-item-371053"><a href="http://u4uvoice.com/category/trending/newsfeed/national/">National</a></li>
+<li id="menu-item-371054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-18 better-anim-fade menu-item-371054"><a href="http://u4uvoice.com/category/trending/newsfeed/sports/">Sports</a></li>
+<li id="menu-item-292581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-524 better-anim-fade menu-item-292581"><a href="http://u4uvoice.com/category/trending/">TRENDING</a>
+<ul class="sub-menu">
+	<li id="menu-item-292582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-375 better-anim-fade menu-item-292582"><a href="http://u4uvoice.com/category/trending/newsfeed/">Newsfeed</a></li>
+	<li id="menu-item-292584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-17 better-anim-fade menu-item-292584"><a href="http://u4uvoice.com/category/trending/newsfeed/politics/">Politics</a></li>
+	<li id="menu-item-292585" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-7 better-anim-fade menu-item-292585"><a href="http://u4uvoice.com/category/trending/travel_lifestyle/">Travel &#038; Lifestyle</a></li>
+	<li id="menu-item-292586" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-320 better-anim-fade menu-item-292586"><a href="http://u4uvoice.com/category/trending/travel_lifestyle/health/">Health</a></li>
+	<li id="menu-item-292587" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-321 better-anim-fade menu-item-292587"><a href="http://u4uvoice.com/category/trending/travel_lifestyle/technology/">Technology</a></li>
+</ul>
+</li>
+<li id="menu-item-292588" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-322 better-anim-fade menu-item-292588"><a href="http://u4uvoice.com/category/gallery-2/">Gallery</a>
+<ul class="sub-menu">
+	<li id="menu-item-292589" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-22 better-anim-fade menu-item-292589"><a href="http://u4uvoice.com/category/gallery-2/image_gallery/">Image Gallery</a></li>
+	<li id="menu-item-292590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-182 better-anim-fade menu-item-292590"><a href="http://u4uvoice.com/category/gallery-2/video-gallery/">Video Gallery</a></li>
+</ul>
+</li>
+					</ul><!-- #main-navigation -->
+											<div class="menu-action-buttons width-1">
+															<div class="search-container close">
+									<span class="search-handler"><i class="fa fa-search"></i></span>
+
+									<div class="search-box clearfix">
+										<form role="search" method="get" class="search-form clearfix" action="http://u4uvoice.com">
+	<input type="search" class="search-field"
+	       placeholder="Search..."
+	       value="" name="s"
+	       title="Search for:"
+	       autocomplete="off">
+	<input type="submit" class="search-submit" value="Search">
+</form><!-- .search-form -->
+									</div>
+								</div>
+														</div>
+										</nav><!-- .main-menu-container -->
+
+			</div>
+		</div>
+	</div>
+</div><!-- .menu -->
+	</header><!-- .header -->
+	<div class="rh-header clearfix light deferred-block-exclude">
+		<div class="rh-container clearfix">
+
+			<div class="menu-container close">
+				<span class="menu-handler"><span class="lines"></span></span>
+			</div><!-- .menu-container -->
+
+			<div class="logo-container rh-img-logo">
+				<a href="http://u4uvoice.com/" itemprop="url" rel="home">
+											<img src="http://u4uvoice.com/wp-content/uploads/2018/10/logoU4u.png"
+						     alt="U4UVoice"  />				</a>
+			</div><!-- .logo-container -->
+		</div><!-- .rh-container -->
+	</div><!-- .rh-header -->
+<div class='bs-injection bs-injection-after_header bs-injection-2-col bs-vc-content'><div class="row vc_row wpb_row vc_row-fluid"><div class="bs-vc-wrapper"><div class="wpb_column bs-vc-column vc_column_container vc_col-sm-12"><div class="bs-vc-wrapper wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div class="pjnt-border" style="font-family: , sans-serif; background-color: #009F12; border-color: #009F12;"><div class="pjnt-label" style="color: #ffffff; font-size: 100%;">Recent News</div><div class="pjnt-box" style="background-color: #ffffff;"><div class="pjnt-content" data-gap="false" data-speed="50" style="font-size: 100%;"><span class="pjnt-item"><a target="_self" href="http://u4uvoice.com/vaccination-drive-begins-in-high-court-jammu-for-18-44-years-category-advocates/">Vaccination Drive Begins In High Court Jammu For 18-44 Years Category Advocates</a></span><span class="pjnt-item"><a target="_self" href="http://u4uvoice.com/rape-accused-held-within-hours/">Rape accused held within hours</a></span><span class="pjnt-item"><a target="_self" href="http://u4uvoice.com/heroine-worth-50-crore-seized-one-held-jk-police/">Heroine worth 50 crore seized, one held: J&#038;K Police</a></span><span class="pjnt-item"><a target="_self" href="http://u4uvoice.com/alert-for-jewellery-buyers-sellers-modi-government-took-this-decision/">Alert for jewellery buyers, sellers! Modi government took this decision</a></span><span class="pjnt-item"><a target="_self" href="http://u4uvoice.com/mobile-users-may-soon-be-able-to-switch-from-postpaid-to-prepaid-using-otp/">Mobile users may soon be able to switch from postpaid to prepaid using OTP</a></span><span class="pjnt-item"><a target="_self" href="http://u4uvoice.com/1-15-lakh-healthcare-workers-died-due-to-covid-who-chief/">1.15 lakh healthcare workers died due to Covid: WHO chief</a></span><span class="pjnt-item"><a target="_self" href="http://u4uvoice.com/good-news-for-vehicle-owners-check-details-here/">Good News For Vehicle Owners: Check details here</a></span><span class="pjnt-item"><a target="_self" href="http://u4uvoice.com/9-establishments-sealed-21-new-firs-registered-in-jammu/">9 establishments sealed, 21 new FIRs registered in Jammu</a></span></div></div></div>
+		</div>
+	</div>
+</div></div></div></div>
+<style type="text/css" data-type="vc_custom-css">.pjnt-item:last-child:after {
+  content: ""!important;
+}.pjnt-item::after {
+  content: "|";
+  padding-left: 11px;
+  position: relative;
+  top: -1px;
+  left: 5px;
+}.pjnt-label:before {
+  content: "\f1ea";
+  font-family: fontawesome;
+  padding-right: 5px;
+  position: relative;
+  top: 1px;
+}.pjnt-label {
+  font-size: 12px!important;
+  top: 3px!important;
+  position: relative;
+}</style></div><div class="content-wrap">
+		<main id="content" class="content-container">
+
+		<div class="container layout-2-col layout-2-col-1 layout-right-sidebar">
+			<div class="row main-section">
+										<div class="col-sm-8 content-column">
+								<article id="post-7724" class="post-7724 attachment type-attachment status-inherit  single-attachment-content">
+				<div class="single-featured">
+							<a class="post-thumbnail" href="http://u4uvoice.com/wp-content/uploads/2013/09/jktourism-logo.jpg">
+					<img src="http://u4uvoice.com/wp-content/uploads/2013/09/jktourism-logo.jpg"
+					     alt="jktourism logo">
+				</a>
+						</div>
+
+		<header class="attachment-header">
+			<h1 class="attachment-title">jktourism logo</h1>		</header>
+
+			</article>
+						</div><!-- .content-column -->
+												<div class="col-sm-4 sidebar-column sidebar-column-primary">
+							<aside id="sidebar-primary-sidebar" class="sidebar" role="complementary" aria-label="Primary Sidebar Sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+	<div id="custom_html-11" class="widget_text  h-ni w-nt primary-sidebar-widget widget widget_custom_html"><div class="textwidget custom-html-widget"></div></div><div id="orngClr" class=" h-ni h-c h-c-e64035 h-bg h-bg-e64035 w-t primary-sidebar-widget widget widget_better-social-counter"><div class="section-heading sh-t2 sh-s3"><span class="h-text">Stay With Us</span></div>		<div  class="  better-studio-shortcode bsc-clearfix better-social-counter style-button colored in-4-col">
+						<ul class="social-list bsc-clearfix"><li class="social-item facebook"><a href = "https://www.facebook.com/U4UVoice" target = "_blank" > <i class="item-icon bsfi-facebook" ></i><span class="item-title" > Likes </span> </a> </li> <li class="social-item twitter"><a href = "https://twitter.com/U4U_Voice" target = "_blank" > <i class="item-icon bsfi-twitter" ></i><span class="item-title" > Followers </span> </a> </li> <li class="social-item youtube"><a href = "" target = "_blank" > <i class="item-icon bsfi-youtube" ></i><span class="item-title" > Subscribers </span> </a> </li> <li class="social-item pinterest"><a href = "http://www.pinterest.com/U4UVoice" target = "_blank" > <i class="item-icon bsfi-pinterest" ></i><span class="item-title" > Followers </span> </a> </li> <li class="social-item instagram"><a href = "https://instagram.com/U4UVoice" target = "_blank" > <i class="item-icon bsfi-instagram" ></i><span class="item-title" > Followers </span> </a> </li> <li class="social-item google"><a href = "https://plus.google.com/107372710278689177246" target = "_blank" > <i class="item-icon bsfi-google" ></i><span class="item-title" > Followers </span> </a> </li> <li class="social-item linkedin"><a href = "https://in.linkedin.com/company/u4u-voice" target = "_blank" > <i class="item-icon bsfi-linkedin" ></i><span class="item-title" >  </span> </a> </li> 			</ul>
+		</div>
+		</div><div id="newsletter-pack-3" class=" h-ni w-nt primary-sidebar-widget widget widget_newsletter-pack">	<div  class="bs-shortcode bs-newsletter-pack bsnp-mailchimp bsnp-st-widget bsnp-t1 bsnp-s7 bsnp-st-wide-2col clearfix ">
+		
+					<div class="bsnp-ic bsnp-ic-img">
+				<img src="http://u4uvoice.com/wp-content/plugins/newsletter-pack-pro/images/newsletters/envelope-2.png?v=1.0.3"
+				     alt="Subscribe to our newsletter">
+			</div>
+		
+		<div class="bsnp-bc">
+
+							<div class="bsnp-title heading-typo">Subscribe to our newsletter</div>
+			
+							<div class="bsnp-desc">Sign up here to get the latest news, updates delivered directly to your inbox.</div>
+			
+			<form action="https://u4uvoice.us19.list-manage.com/subscribe/post?u=a59cc37bcb01b4e31b1b75637&amp;id=232e4ba290" method="post" name="mc-embedded-subscribe-form" class="bsnp-form clearfix " target="_blank">
+									<div class="bsnp-inputs-wrap bsnp-clearfix bsnp-1-row">
+							            <div class="bsnp-field-w bsnp-field-input-w"><input name="EMAIL" type="email" placeholder="Enter your email address" class="bsnp-input "><i class="bsnp-icon fa fa-envelope"></i></div>
+							            <div class="bsnp-field-w bsnp-field-button-w"><button class="bsnp-button" name="subscribe" type="submit">Subscribe</button></div>
+									</div>
+								</form>
+							<div class="bsnp-after">You can unsubscribe at any time</div>
+			
+					</div>
+	</div>
+</div><div id="nav_menu-26" class=" h-ni h-bg h-bg-009f12 w-t primary-sidebar-widget widget widget_nav_menu"><div class="section-heading sh-t2 sh-s3"><span class="h-text">Utility</span></div><div class="menu-utility-container"><ul id="menu-utility" class="menu"><li id="menu-item-245085" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-245085"><a href="http://IRCTC.CO.IN">IRCTC</a></li>
+<li id="menu-item-245086" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-245086"><a href="http://JKBOSE.IN">J&#038;K BOARD OF SECONDARY EDUCATION</a></li>
+<li id="menu-item-245088" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-245088"><a href="http://www.jammuuniversity.in">UNIVERSITY OF JAMMU</a></li>
+<li id="menu-item-245091" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-245091"><a href="http://www.jkbank.net">JAMMU AND KASHMIR BANK</a></li>
+<li id="menu-item-245104" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-245104"><a href="http://www.smvdu.ac.in">MATA VASIHNO DEVI SHRINE BOARD</a></li>
+</ul></div></div></aside>
+						</div><!-- .primary-sidebar-column -->
+									</div><!-- .main-section -->
+		</div>
+
+	</main><!-- main -->
+	</div><!-- .content-wrap -->
+
+	<footer id="site-footer" class="site-footer full-width">
+		<div class="footer-social-icons">
+	<div class="content-wrap">
+		<div class="container">
+					<div  class="  better-studio-shortcode bsc-clearfix better-social-counter style-big-button colored in-5-col">
+						<ul class="social-list bsc-clearfix"><li class="social-item facebook"> <a href = "https://www.facebook.com/U4UVoice" class="item-link" target = "_blank" > <i class="item-icon bsfi-facebook" ></i><span class="item-name" > Facebook</span> <span class="item-title-join" > Join us on Facebook</span> </a> </li> <li class="social-item twitter"> <a href = "https://twitter.com/U4U_Voice" class="item-link" target = "_blank" > <i class="item-icon bsfi-twitter" ></i><span class="item-name" > Twitter</span> <span class="item-title-join" > Join us on Twitter</span> </a> </li> <li class="social-item google"> <a href = "https://plus.google.com/107372710278689177246" class="item-link" target = "_blank" > <i class="item-icon bsfi-google" ></i><span class="item-name" > Google+</span> <span class="item-title-join" > Join us on Google</span> </a> </li> <li class="social-item youtube"> <a href = "" class="item-link" target = "_blank" > <i class="item-icon bsfi-youtube" ></i><span class="item-name" > Youtube</span> <span class="item-title-join" > Join us on Youtube</span> </a> </li> <li class="social-item instagram"> <a href = "https://instagram.com/U4UVoice" class="item-link" target = "_blank" > <i class="item-icon bsfi-instagram" ></i><span class="item-name" > Instagram</span> <span class="item-title-join" > Join us on Instagram</span> </a> </li> <li class="social-item pinterest"> <a href = "http://www.pinterest.com/U4UVoice" class="item-link" target = "_blank" > <i class="item-icon bsfi-pinterest" ></i><span class="item-name" > Pinterest</span> <span class="item-title-join" > Join us on Pinterest</span> </a> </li> 			</ul>
+		</div>
+				</div>
+	</div>
+</div>
+<div class="footer-widgets dark-text">
+	<div class="content-wrap">
+		<div class="container">
+			<div class="row">
+										<div class="col-sm-12">
+							<aside id="sidebar-footer-1" class="sidebar" role="complementary" aria-label="Footer - Column 1 Sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+								<div id="footerStickyrecents" class=" h-ni bs-hidden-lg bs-hidden-md w-nt footer-widget footer-column-1 widget widget_bs-thumbnail-listing-1"><div class=" bs-listing bs-listing-listing-thumbnail-1 bs-listing-single-tab pagination-animate">			<p class="section-heading sh-t3 sh-s8 main-term-none">
+
+			
+									<span class="h-text main-term-none main-link">
+						 Recent Posts					</span>
+				
+			
+			</p>
+			<div class="bs-slider-items-container" data-slider-animation-speed="750" data-slider-autoplay="1" data-slider-control-dots="off" data-slider-control-next-prev="off" data-autoplaySpeed="7000">		<div class="bs-pagination-wrapper main-term-none slider bs-slider-first-item bs-slider-item bs-items-5">
+			<div class="listing listing-thumbnail listing-tb-1 clearfix columns-1">
+		<div class="post-441704 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-4">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  title="Vaccination Drive Begins In High Court Jammu For 18-44 Years Category Advocates" data-src="http://u4uvoice.com/wp-content/uploads/2021/05/vacc-drives-86x64.jpeg" data-bs-srcset="{&quot;baseurl&quot;:&quot;http:\/\/u4uvoice.com\/wp-content\/uploads\/2021\/05\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;vacc-drives-86x64.jpeg&quot;,&quot;210&quot;:&quot;vacc-drives-210x136.jpeg&quot;,&quot;1024&quot;:&quot;vacc-drives-scaled.jpeg&quot;}}"						class="img-holder" href="http://u4uvoice.com/vaccination-drive-begins-in-high-court-jammu-for-18-44-years-category-advocates/"></a>
+							</div>
+		<p class="title">		<a href="http://u4uvoice.com/vaccination-drive-begins-in-high-court-jammu-for-18-44-years-category-advocates/" class="post-url post-title">
+			Vaccination Drive Begins In High Court Jammu For 18-44 Years Category Advocates		</a>
+		</p>		<div class="post-meta">
+
+					</div>
+			</div>
+	</div >
+	</div>
+	
+	</div>		<div class="bs-pagination-wrapper main-term-none slider  bs-slider-item bs-items-5">
+			<div class="listing listing-thumbnail listing-tb-1 clearfix columns-1">
+		<div class="post-441699 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-3">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  title="Rape accused held within hours" data-src="http://u4uvoice.com/wp-content/uploads/2019/04/Young-Girl-Repeatedly-Raped-In-GMC-Jammu-86x64.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;http:\/\/u4uvoice.com\/wp-content\/uploads\/2019\/04\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;Young-Girl-Repeatedly-Raped-In-GMC-Jammu-86x64.jpg&quot;,&quot;210&quot;:&quot;Young-Girl-Repeatedly-Raped-In-GMC-Jammu-210x136.jpg&quot;,&quot;696&quot;:&quot;Young-Girl-Repeatedly-Raped-In-GMC-Jammu.jpg&quot;}}"						class="img-holder" href="http://u4uvoice.com/rape-accused-held-within-hours/"></a>
+							</div>
+		<p class="title">		<a href="http://u4uvoice.com/rape-accused-held-within-hours/" class="post-url post-title">
+			Rape accused held within hours		</a>
+		</p>		<div class="post-meta">
+
+					</div>
+			</div>
+	</div >
+	</div>
+	
+	</div>		<div class="bs-pagination-wrapper main-term-none slider  bs-slider-item bs-items-5">
+			<div class="listing listing-thumbnail listing-tb-1 clearfix columns-1">
+		<div class="post-441698 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-4">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  title="Heroine worth 50 crore seized, one held: J&#038;K Police" data-src="http://u4uvoice.com/wp-content/uploads/2020/02/arrested-765389-86x64.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;http:\/\/u4uvoice.com\/wp-content\/uploads\/2020\/02\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;arrested-765389-86x64.jpg&quot;,&quot;210&quot;:&quot;arrested-765389-210x136.jpg&quot;,&quot;590&quot;:&quot;arrested-765389.jpg&quot;}}"						class="img-holder" href="http://u4uvoice.com/heroine-worth-50-crore-seized-one-held-jk-police/"></a>
+							</div>
+		<p class="title">		<a href="http://u4uvoice.com/heroine-worth-50-crore-seized-one-held-jk-police/" class="post-url post-title">
+			Heroine worth 50 crore seized, one held: J&#038;K Police		</a>
+		</p>		<div class="post-meta">
+
+					</div>
+			</div>
+	</div >
+	</div>
+	
+	</div>		<div class="bs-pagination-wrapper main-term-none slider  bs-slider-item bs-items-5">
+			<div class="listing listing-thumbnail listing-tb-1 clearfix columns-1">
+		<div class="post-441697 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-8">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  title="Alert for jewellery buyers, sellers! Modi government took this decision" data-src="http://u4uvoice.com/wp-content/uploads/2019/02/gold-and-silver-86x64.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;http:\/\/u4uvoice.com\/wp-content\/uploads\/2019\/02\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;gold-and-silver-86x64.jpg&quot;,&quot;210&quot;:&quot;gold-and-silver-210x136.jpg&quot;,&quot;770&quot;:&quot;gold-and-silver.jpg&quot;}}"						class="img-holder" href="http://u4uvoice.com/alert-for-jewellery-buyers-sellers-modi-government-took-this-decision/"></a>
+							</div>
+		<p class="title">		<a href="http://u4uvoice.com/alert-for-jewellery-buyers-sellers-modi-government-took-this-decision/" class="post-url post-title">
+			Alert for jewellery buyers, sellers! Modi government took this decision		</a>
+		</p>		<div class="post-meta">
+
+					</div>
+			</div>
+	</div >
+	</div>
+	
+	</div>		<div class="bs-pagination-wrapper main-term-none slider  bs-slider-item bs-items-5">
+			<div class="listing listing-thumbnail listing-tb-1 clearfix columns-1">
+		<div class="post-441694 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-8">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  title="Mobile users may soon be able to switch from postpaid to prepaid using OTP" data-src="http://u4uvoice.com/wp-content/uploads/2019/12/Mobile-Numbers-86x64.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;http:\/\/u4uvoice.com\/wp-content\/uploads\/2019\/12\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;Mobile-Numbers-86x64.jpg&quot;,&quot;210&quot;:&quot;Mobile-Numbers-210x136.jpg&quot;,&quot;1000&quot;:&quot;Mobile-Numbers.jpg&quot;}}"						class="img-holder" href="http://u4uvoice.com/mobile-users-may-soon-be-able-to-switch-from-postpaid-to-prepaid-using-otp/"></a>
+							</div>
+		<p class="title">		<a href="http://u4uvoice.com/mobile-users-may-soon-be-able-to-switch-from-postpaid-to-prepaid-using-otp/" class="post-url post-title">
+			Mobile users may soon be able to switch from postpaid to prepaid using OTP		</a>
+		</p>		<div class="post-meta">
+
+					</div>
+			</div>
+	</div >
+	</div>
+	
+	</div></div></div></div>							</aside>
+						</div>
+									</div>
+		</div>
+	</div>
+</div>
+		<div class="copy-footer">
+			<div class="content-wrap">
+				<div class="container">
+										<div class="row footer-copy-row">
+						<div class="copy-1 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+							© 2021 - U4UVoice. All Rights Reserved.						</div>
+						<div class="copy-2 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer><!-- .footer -->
+		</div><!-- .main-wrap -->
+		
+<div id="pum-314174" class="pum pum-overlay pum-theme-314168 pum-theme-default-theme popmake-overlay auto_open click_open" data-popmake="{&quot;id&quot;:314174,&quot;slug&quot;:&quot;popup-video&quot;,&quot;theme_id&quot;:314168,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-314174&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;2 hour&quot;,&quot;path&quot;:true}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:[&quot;pum-314174&quot;],&quot;delay&quot;:&quot;20000&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center bottom&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;slide&quot;,&quot;animation_speed&quot;:&quot;2000&quot;,&quot;animation_origin&quot;:&quot;bottom&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_314174">
+
+	<div id="popmake-314174" class="pum-container popmake theme-314168 pum-responsive pum-responsive-small responsive size-small">
+
+				
+
+				            <div id="pum_popup_title_314174" class="pum-title popmake-title">
+				Download Our Application			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content">
+			<p class="attachment"><a href='http://u4uvoice.com/wp-content/uploads/2013/09/jktourism-logo.jpg'><img width="300" height="288" src="http://u4uvoice.com/wp-content/uploads/2013/09/jktourism-logo-300x288.jpg" class="attachment-medium size-medium" alt="" srcset="http://u4uvoice.com/wp-content/uploads/2013/09/jktourism-logo-300x288.jpg 300w, http://u4uvoice.com/wp-content/uploads/2013/09/jktourism-logo-58x55.jpg 58w, http://u4uvoice.com/wp-content/uploads/2013/09/jktourism-logo.jpg 467w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<div class="dwnldApp">
+<p><img src="/wp-content/uploads/2018/10/download-app00.jpg" /><a href="/u4u-voice-app/">Download Now</a></p>
+</div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			Close            </button>
+		
+	</div>
+
+</div>
+<script data-ad-client="ca-pub-4776437692940406" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>
+var bs_pagination_loc = {"loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>"};
+</script>
+<script>
+var better_bam_loc = {"ajax_url":"http:\/\/u4uvoice.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script>
+var bs_smart_lists_loc = {"translations":{"nav_next":"Next","nav_prev":"Prev","trans_x_of_y":"%1$s of %2$s","trans_page_x_of_y":"Page %1$s of %2$s"}};
+</script>
+<script>
+var publisher_theme_global_loc = {"page":{"boxed":"full-width"},"header":{"style":"style-2","boxed":"boxed"},"ajax_url":"http:\/\/u4uvoice.com\/wp-admin\/admin-ajax.php","loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>","translations":{"tabs_all":"All","tabs_more":"More","lightbox_expand":"Expand the image","lightbox_close":"Close"},"lightbox":{"not_classes":""},"main_menu":{"more_menu":"enable"},"skyscraper":{"sticky_gap":30,"sticky":true,"position":"after-header"},"share":{"more":true},"refresh_googletagads":"1","notification":{"subscribe_msg":"By clicking the subscribe button you will never miss the new articles!","subscribed_msg":"You're subscribed to notifications","subscribe_btn":"Subscribe","subscribed_btn":"Unsubscribe"}};
+var publisher_theme_ajax_search_loc = {"ajax_url":"http:\/\/u4uvoice.com\/wp-admin\/admin-ajax.php","previewMarkup":"<div class=\"ajax-search-results-wrapper ajax-search-no-product ajax-search-fullwidth\">\n\t<div class=\"ajax-search-results\">\n\t\t<div class=\"ajax-ajax-posts-list\">\n\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t<span>Posts<\/span>\n\t\t\t<\/div>\n\t\t\t<div class=\"posts-lists\" data-section-name=\"posts\"><\/div>\n\t\t<\/div>\n\t\t<div class=\"ajax-taxonomy-list\">\n\t\t\t<div class=\"ajax-categories-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Categories<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"categories\"><\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ajax-tags-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Tags<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"tags\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>","full_width":"1"};
+</script>
+		<!--[if lt IE 9]>
+		<script type='text/javascript'
+		        src='https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.8/ext-old_ie.js'></script>
+		<![endif]-->
+				<div class="rh-cover noscroll  no-login-icon" >
+			<span class="rh-close"></span>
+			<div class="rh-panel rh-pm">
+				<div class="rh-p-h">
+									</div>
+
+				<div class="rh-p-b">
+										<div class="rh-c-m clearfix"></div>
+
+											<form role="search" method="get" class="search-form" action="http://u4uvoice.com">
+							<input type="search" class="search-field"
+							       placeholder="Search..."
+							       value="" name="s"
+							       title="Search for:"
+							       autocomplete="off">
+						</form>
+										</div>
+			</div>
+					</div>
+		<link rel='stylesheet' id='js_composer_front-css'  href='http://u4uvoice.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.7' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/u4uvoice.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://u4uvoice.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://u4uvoice.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://u4uvoice.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pum_vars = {"version":"1.11.2","pm_dir_url":"http:\/\/u4uvoice.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"http:\/\/u4uvoice.com\/wp-admin\/admin-ajax.php","restapi":"http:\/\/u4uvoice.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"314168","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "http:\/\/u4uvoice.com\/wp-admin\/admin-ajax.php";
+var pum_sub_vars = {"ajaxurl":"http:\/\/u4uvoice.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-314174":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-314174"],"delay":"20000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-314174","key":"","session":false,"time":"2 hour","path":true}}],"theme_id":"314168","size":"small","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"slide","animation_speed":"2000","animation_origin":"bottom","location":"center bottom","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","theme_slug":"default-theme","id":314174,"slug":"popup-video"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//u4uvoice.com/wp-content/uploads/pum/pum-site-scripts.js?defer&#038;generated=1600665577&#038;ver=1.11.2'></script>
+<script type='text/javascript' src='http://u4uvoice.com/wp-includes/js/comment-reply.min.js?ver=5.3.8'></script>
+<script type='text/javascript' src='http://u4uvoice.com/wp-includes/js/wp-embed.min.js?ver=5.3.8'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.3.8' async='async'></script>
+<script type='text/javascript' src='http://u4uvoice.com/wp-content/plugins/better-adsmanager/js/advertising.min.js?ver=1.16.5'></script>
+<script type='text/javascript' src='http://u4uvoice.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.7'></script>
+<script type='text/javascript' async="async" src='http://u4uvoice.com/wp-content/bs-booster-cache/4d2f3fa7fce5d181b7200e0f2f71e02a.js?ver=5.3.8'></script>
+
+</body>
+</html>
