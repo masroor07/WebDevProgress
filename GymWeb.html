@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rich Life</title>
+</head>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+/* CSS RESET */
+body{
+    margin: 0px;
+    padding:0px;
+    background: url('Images/Cover.jpg') center center/cover; 
+    height: 700px;
+    color: white;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+.left{
+    
+    
+    display: inline-block;
+    position: absolute;
+    left: 33px;
+    top: 9px;
+    text-align: center;
+    padding: 6px 34px;
+
+}
+
+
+.left img{
+    width: 70px; 
+
+}
+
+.left div{
+    width: 23%;
+    margin: 0px auto;
+    display: table-row;
+    font-size: small;}
+
+
+
+
+.mid{
+ 
+width: 38%;
+margin: 17px auto;
+display: block;
+font-size:small;
+
+}
+
+.right{
+   display: inline-block;
+    position: absolute;
+    right: 20px;
+    top: 17px;
+}    
+.navbar {
+    display: inline-block;
+    }
+
+.navbar li{
+    display: inline-block;
+    font-size: 25px;
+    
+    
+
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    padding: 0px 10px;
+    
+}
+.navbar li a:hover, .navbar li a.active{
+   text-decoration: underline;
+   color: grey;
+    
+}
+.btn{
+    margin: 0px 9px;
+    background-color: black;
+    color: white;
+    padding: 4px 14px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: 'Baloo Bhaina 2', cursive;
+    
+}
+.btn:hover{
+    background-color: rgb(80, 72, 72);
+    
+}
+
+.container{
+    float: right;
+    /* border: 2px solid white; */
+    margin: 82px 56px;
+    padding: 6px;
+    width: 47%;
+    border-radius: 69px;
+
+}
+ .form-group input{
+    text-align: center;
+    display: block;
+    width: 435px;
+    padding: 1px;
+    border: 3px solid rgb(70 5 41);
+    margin: 11px auto;
+    font-size: 17px;
+    border-radius: 8px;
+
+}
+.container button{
+    margin: 13px auto;
+    width: 124px;
+    display: block;
+}
+h1{
+    text-align: center;
+}
+    
+</style>
+<body>
+    <header class="header">
+        <div class="left">
+<!-- Left box for logo -->
+<img src="Images/logo gym.jpg" alt="">
+<div>Rich Life Gym</div>
+        </div>
+        <div class="mid">
+<!-- RMid for nav -->
+<ul class="navbar">
+    <li><a href="" class="active">Home</a></li>
+    <li><a href="">About Us</a></li>
+    <li><a href="">Gallery</a></li>
+    <li><a href="">Contact Us</a></li>
+</ul>
+        </div>
+        <div class="right">
+        <!-- right for search -->
+            <button class="btn">Call Us Now</button>
+            <button class="btn">Email Us
+            </button>
+        </div>
+    </header>
+    <div class="container">
+        <h1>Join the most affordable gym in the Valley</h1>
+        <form action="noaction.php">
+            <div class="form-group">
+               <input type="text" name="" placeholder="Enter your name"> 
+            </div>
+            <div class="form-group">
+                <input type="text" name="" placeholder="Enter your number"> 
+             </div>
+             <div class="form-group">
+                <input type="text" name="" placeholder="Enteryour name"> 
+             </div>
+             <div class="form-group">
+                <input type="text" name="" placeholder="Enter your e-mail"> 
+             </div>
+             <button class="btn">Submit</button>
+        </form>
+    </div>
+    
+</body>
+</html>
